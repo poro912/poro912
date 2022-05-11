@@ -3,9 +3,9 @@
 
 ### Online Judge
 
-* BOJ : [angus99](https://www.acmicpc.net/user/angus99)
-  * solvedac : [](https://solved.ac/profile/)
 * CodeUp : [angus99](https://codeup.kr/userinfo.php?user=angus99)
+* BOJ : [angus99](https://www.acmicpc.net/user/angus99)
+  * solvedac : [angus99](https://solved.ac/profile/angus99)
 
 
 <!--
