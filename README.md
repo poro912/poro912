@@ -10,8 +10,10 @@
 
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img></br>
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white"></img></br>
+<img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 
+C Sharp
 <!--
 **poro912/poro912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
