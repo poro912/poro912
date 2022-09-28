@@ -1,17 +1,18 @@
-### Hi there 👋
-
-
 ### Online Judge
-
-* CodeUp : [angus99](https://codeup.kr/userinfo.php?user=angus99)
 * BOJ : [angus99](https://www.acmicpc.net/user/angus99)
   * solvedac : [angus99](https://solved.ac/profile/angus99)
+* CodeUp : [angus99](https://codeup.kr/userinfo.php?user=angus99)
 
 
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img></br>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white"></img></br>
-<img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+
+
+## Stack
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/CS-239120?style=for-the-badge&logo=Csharp&logoColor=white"><br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
 C Sharp
 <!--
