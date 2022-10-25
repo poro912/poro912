@@ -10,8 +10,13 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/py-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
+</br>
 
+> **Warning**</br>
+> 기분이 안좋아보이면 배고픈겁니다 멀리 떨어지십쇼
 
+> **Note**</br>
+> 관심을 주면 좋아합니다.
 
 <!--
 **poro912/poro912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
