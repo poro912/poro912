@@ -1,17 +1,26 @@
 ### Online Judge
+* CodeUp : [angus99](https://codeup.kr/userinfo.php?user=angus99)
 * BOJ : [angus99](https://www.acmicpc.net/user/angus99)
   * solvedac : [angus99](https://solved.ac/profile/angus99)
-* CodeUp : [angus99](https://codeup.kr/userinfo.php?user=angus99)
 
 
-## Stack
+## STACK
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img>
 <img src="https://img.shields.io/badge/c⁺⁺-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/py-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
+Unity
 </br>
 
+## EXP
+C++ - Window Hook        </br>
+C++/C# - Socket Network  </br>
+Py - Discord ChatBot     </br>
+Py - Twittpy             </br>
+</br>
+
+##
 > **Warning**</br>
 > 기분이 안좋아보이면 배고픈겁니다 멀리 떨어지십쇼
 
