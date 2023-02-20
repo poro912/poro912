@@ -7,10 +7,11 @@
 ## STACK
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img>
 <img src="https://img.shields.io/badge/c⁺⁺-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/py-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
-Unity
+<img src="https://img.shields.io/badge/py-3776AB?style=for-the-badge&logo=python&logoColor=white"> </br>
+Unity </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poro912)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
 ## EXP
