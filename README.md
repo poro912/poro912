@@ -1,7 +1,7 @@
-## Notion
-[소개](https://poro912.notion.site/1d8e30ff39b04c4582edc717417b3a0d)
-[일정](https://poro912.notion.site/721ed57c4def4d65aac35a32f3c32694?v=858ec6a556ce421ba2cb29688a9196a2)
-[성취](https://poro912.notion.site/935ca5ff75d3455c9a80466b05cf11cb?v=e8ff12c7481f46319677e1274be1a95b)
+### Notion
+[소개 페이지](https://poro912.notion.site/1d8e30ff39b04c4582edc717417b3a0d)  
+[일정 캘린더](https://poro912.notion.site/721ed57c4def4d65aac35a32f3c32694?v=858ec6a556ce421ba2cb29688a9196a2)  
+[성취 캘린더](https://poro912.notion.site/935ca5ff75d3455c9a80466b05cf11cb?v=e8ff12c7481f46319677e1274be1a95b)  
 
 ## Online Judge
 * CodeUp : [angus99](https://codeup.kr/userinfo.php?user=angus99)
