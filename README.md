@@ -1,6 +1,6 @@
-### [Notion](https://poro912.notion.site/1d8e30ff39b04c4582edc717417b3a0d?pvs=4)  
-[소개 페이지](https://poro912.notion.site/1d8e30ff39b04c4582edc717417b3a0d?pvs=4)  
-[일정 캘린더](https://poro912.notion.site/d0d7c36fe034454d909ec11c953daf4b?v=75bc388efd8e4845bb976052fb3bc5af&pvs=4)  
+### Notion
+[소개](https://poro912.notion.site/1d8e30ff39b04c4582edc717417b3a0d?pvs=4)  
+[일정](https://poro912.notion.site/d0d7c36fe034454d909ec11c953daf4b?v=75bc388efd8e4845bb976052fb3bc5af&pvs=4)  
 [성취 캘린더](https://poro912.notion.site/935ca5ff75d3455c9a80466b05cf11cb?v=e8ff12c7481f46319677e1274be1a95b&pvs=4)
 
 ## Online Judge
