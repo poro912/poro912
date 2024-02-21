@@ -36,17 +36,6 @@ Py - Twittpy             </br>
 </br>
 
 
-## Project
-
-
-
-##
-> **Warning**</br>
-> 기분이 안좋아보이면 배고픈겁니다 멀리 떨어지십쇼
-
-> **Note**</br>
-> 관심을 주면 좋아합니다.
-
 <!--
 **poro912/poro912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
