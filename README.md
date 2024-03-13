@@ -17,11 +17,32 @@
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></br>
  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
- <img src="https://img.shields.io/badge/unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff"></img>
+ <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"></img>
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></img>
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
 </div>
 </br>
+
+<!--
+<img src="https://img.shields.io/badge/unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff"></img>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img></br>
+ <img src="https://img.shields.io/badge/c⁺⁺-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img></br>
+ <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"></img></br>
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></img></br>
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></br>
+ 
+ <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img></br>
+ <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></img></br>
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></img></br>
+
+ <img src="https://img.shields.io/badge/unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff"></img></br>
+-->
+
+
+
+
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poro912)](https://github.com/anuraghazra/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api?username=poro912&show_icons=true&theme=white">
