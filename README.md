@@ -67,12 +67,12 @@ mongodb-47A248
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=poro912&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poro912)](https://github.com/anuraghazra/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api?username=poro912&show_icons=true&theme=white">
-</br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poro912&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=poro912&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## EXP
