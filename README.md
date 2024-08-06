@@ -66,6 +66,7 @@ mongodb-47A248
 
 
 
+<img src="https://duolingo-stats-card.vercel.app/api?username=angus991122&theme=sky" alt="Duolingo Stats"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=poro912&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
