@@ -68,8 +68,7 @@ mongodb-47A248
 <a href="https://solved.ac/angus99" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=angus99" alt="solved.ac profile"/></a> </br></br>
 <img src="https://duolingo-stats-card.vercel.app/api?username=angus991122&theme=sky" alt="Duolingo Stats"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poro912&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=poro912&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poro912)](https://github.com/anuraghazra/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api?username=poro912&show_icons=true&theme=white">
 
